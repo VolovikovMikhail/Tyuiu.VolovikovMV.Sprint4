@@ -14,7 +14,7 @@ namespace Tyuiu.VolovikovMV.Sprint4.Task5.V23
             DataService ds = new DataService();
             Random rnd = new Random();
 
-            Console.Title = "Спринт #4 | Выполнил: Воловиков М. В. | АСОиУБ-23-2";
+            Console.Title = "Спринт #4 | Выполнил: Воловиков М. В. | АСОиУБ-23-3";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
             Console.WriteLine("* Тема: Двумерные массивы. (генератор случайных чисел)                    *");
